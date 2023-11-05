@@ -1,0 +1,1 @@
+This is an Acoustic Study that was created from manually labelled NBHF clicks. Events were created manually by selecting all click detections, both true and false positives, within a time interval that I identified as a true encounter.
