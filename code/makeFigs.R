@@ -65,7 +65,7 @@ spectra %>%
 
 ggsave("figs/spectra.png", height = unit(7, "inches"), width = unit(12, "inches"))
 
-# FIGURE 3. IMPORTANCE OF PREDICTORS --------------------------------------
+# FIGURE 3. DIST OF IMPORTANT PREDICTORS --------------------------------------
 
 #train model
 source("code/makeRF.R")
